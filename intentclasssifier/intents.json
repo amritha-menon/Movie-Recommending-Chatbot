@@ -1,0 +1,31 @@
+[
+    {
+        "intent": "greeting",
+        "examples": ["Hi", "How are you?", "Is anyone there?", "Hello", "Good day", "Whats up?",
+                     "How's your day going so far?", "Hey"]
+    },
+    {
+        "intent": "goodbye",
+        "examples": ["Thank you","bye", "cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day", "Farewell my friend", "Thanks!"]
+    },
+    {
+        "intent": "recommendation",
+        "examples": ["Can you recommend me a good movie?", "Show me some movies",
+                     "Please suggest me movies that i will love", "I love which movies", "predict movies which i love",
+                     "pick movies for me", "PREDICT MOVIES FOR ME", "Recommend a nice movie", "Recommend me a movie",
+                     "Tell me a great movie"]
+    },
+    {
+        "intent": "genre_preference",
+        "examples": ["I like action movies", "I don't like horror movies", "I want to watch a romantic movie",
+                     "I prefer action movies to comedies", "I like drama movies", "I prefer comedy movies",
+                     "I love Action movies", "I like Bollywood movies", "What's a good action movie?",
+                     "Suggest a good Thriller movie", "Recommend a comedy movie"]
+    },
+    {
+      "intent": "top_rated",
+      "examples": ["Give me the top rated movies", "Recommend me the top 5 movies", "Suggest the top rated movies",
+      "I want to watch top movies", "I want to watch most popular movies", "Suggest the most popular movies"]
+
+    }
+]
